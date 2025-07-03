@@ -32,7 +32,6 @@ exit
 Licensed under the Apache License. See [LICENSE](/LICENSE)
 
 ## Author
+Jan Antonio Pereira
 
-Skills Network
-
-## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
+## <h3 align="center"> © IBM Corporation 2025. All rights reserved. <h3/>
